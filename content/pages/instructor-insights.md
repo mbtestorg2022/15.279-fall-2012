@@ -5,7 +5,7 @@ title: Instructor Insights
 uid: 49579cf2-ad15-6f5a-9bdd-1177de337412
 ---
 
-//<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
+//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
 
 Course Overview
 ---------------
@@ -99,10 +99,59 @@ Student Information
 
 ![47 students took this course in the Fall 2012 offering.](/courses/sloan-school-of-management/15-279-management-communication-for-undergraduates-fall-2012/instructor-insights/15-279_stat-students.png)
 
-| &nbsp; | Enrollment | By Year | By Major |
-| --- | --- | --- | --- |
-| Fall | ~ 50  {{< br >}}(two sections offered) | Primarily sophomores | Primarily management majors |
-| Spring | ~ 25  {{< br >}}(often one section only) | Sophomores, juniors, and seniors | Varies widely 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+Enrollment
+{{< thclose >}}
+{{< thopen >}}
+By Year
+{{< thclose >}}
+{{< thopen >}}
+By Major
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Fall
+{{< thclose >}}
+{{< tdopen >}}
+~ 50  
+(two sections offered)
+{{< tdclose >}}
+{{< tdopen >}}
+Primarily sophomores
+{{< tdclose >}}
+{{< tdopen >}}
+Primarily management majors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Spring
+{{< thclose >}}
+{{< tdopen >}}
+~ 25  
+(often one section only)
+{{< tdclose >}}
+{{< tdopen >}}
+Sophomores, juniors, and seniors
+{{< tdclose >}}
+{{< tdopen >}}
+Varies widely
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Ideal Class Size
 
@@ -135,24 +184,369 @@ Out of Class
 Semester Breakdown
 ------------------
 
-| WEEK | M | T | W | Th | F |
-| --- | --- | --- | --- | --- | --- |
-| 1 | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 2 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 3 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) |
-| 4 | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) | ![Lecture and oral presentation lab.](/images/educator/edu_b-lecture-preslab.png) | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) | ![Lecture and oral presentation lab.](/images/educator/edu_b-lecture-preslab.png) | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) |
-| 5 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 6 | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Team meetings.](/images/educator/edu_b-team.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 7 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 8 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 9 | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) | ![Oral presentation lab and team meetings.](/images/educator/edu_b-team-preslab.png) | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) | ![Oral presentation lab and team meetings.](/images/educator/edu_b-team-preslab.png) | ![Oral presentation lab.](/images/educator/edu_b-preslab.png) |
-| 10 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 11 | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 12 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) |
-| 13 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Final Presentations.](/images/educator/edu_b-present.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Final Presentations.](/images/educator/edu_b-present.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 14 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Final Presentations.](/images/educator/edu_b-present.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Final Presentations.](/images/educator/edu_b-present.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) |
-| 15 | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![Lecture session.](/images/educator/edu_b-lecture.png) | ![No session scheduled.](/images/educator/edu_b-blank.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) |
-| 16 | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) | ![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+M
+{{< thclose >}}
+{{< thopen >}}
+T
+{{< thclose >}}
+{{< thopen >}}
+W
+{{< thclose >}}
+{{< thopen >}}
+Th
+{{< thclose >}}
+{{< thopen >}}
+F
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+1
+{{< thclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+2
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+3
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+4
+{{< thclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture and oral presentation lab.](/images/educator/edu_b-lecture-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture and oral presentation lab.](/images/educator/edu_b-lecture-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+5
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+6
+{{< thclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Team meetings.](/images/educator/edu_b-team.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+7
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+8
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+9
+{{< thclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab and team meetings.](/images/educator/edu_b-team-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab and team meetings.](/images/educator/edu_b-team-preslab.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Oral presentation lab.](/images/educator/edu_b-preslab.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+10
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+11
+{{< thclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+12
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+13
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Final Presentations.](/images/educator/edu_b-present.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Final Presentations.](/images/educator/edu_b-present.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+14
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Final Presentations.](/images/educator/edu_b-present.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Final Presentations.](/images/educator/edu_b-present.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+15
+{{< thclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![Lecture session.](/images/educator/edu_b-lecture.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No session scheduled.](/images/educator/edu_b-blank.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+16
+{{< thclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+{{< tdopen >}}
+![No classes scheduled throughout MIT.](/images/educator/edu_b-noclass.png)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![Displays the color and pattern used on the preceding table to indicate dates when classes are not held at MIT.](/images/educator/edu_b-noclass-key.png) No classes throughout MIT
 
