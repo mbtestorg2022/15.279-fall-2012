@@ -58,7 +58,7 @@ Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "[Dashman Co.](
 Strategy and Structure (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Brent, Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) _Journal of Business Communication_ 22, no. 2 (1985): 5–8.
+Brent, Douglas. ["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) _Journal of Business Communication_ 22, no. 2 (1985): 5–8.
 {{< tdclose >}}
 
 {{< trclose >}}
