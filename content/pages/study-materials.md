@@ -21,7 +21,7 @@ Guides
 
 [Interactive Presentation: The Role of the Audience (PDF)]({{< baseurl >}}/resources/mit15_279f12_roleaudnce) (Courtesy of Jane Dunphy. Used with permission.)
 
-[Nonverbal Communication Variables (PDF)]({{< baseurl >}}/resources/mit15_279f12_nonverbalcomm) from [_21F.019 Communicating Across Cultures_](/courses/21g-019-communicating-across-cultures-spring-2005/pages/index.htm)
+[Nonverbal Communication Variables (PDF)]({{< baseurl >}}/resources/mit15_279f12_nonverbalcomm) from [_21F.019 Communicating Across Cultures_](/courses/21g-019-communicating-across-cultures-spring-2005)
 
 Rubrics
 -------
@@ -50,7 +50,7 @@ Exercises
 
 ["The CEO World Tour" Cross-Cultural Communication Exercise (PDF)]({{< baseurl >}}/resources/mit15_279f12_ceoworldtr)
 
-["Some Questions to Ask about Culture" (PDF)]({{< baseurl >}}/resources/mit15_279f12_culturequstns) from [_21F.019 Communicating Across Cultures_](/courses/21g-019-communicating-across-cultures-spring-2005/pages/index.htm)
+["Some Questions to Ask about Culture" (PDF)]({{< baseurl >}}/resources/mit15_279f12_culturequstns) from [_21F.019 Communicating Across Cultures_](/courses/21g-019-communicating-across-cultures-spring-2005)
 
 Feedback Forms and Worksheets
 -----------------------------

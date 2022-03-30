@@ -4,6 +4,7 @@ description: 'This resource contains information regarding exercise: some questi
   to ask about culture.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-279-management-communication-for-undergraduates-fall-2012/4160f58ae25fc6344d72bc7c4cc9a199_MIT15_279F12_cultureQustns.pdf
 file_type: application/pdf
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Exercise: Some Questions to Ask About Culture'
 uid: 4160f58a-e25f-c634-4d72-bc7c4cc9a199

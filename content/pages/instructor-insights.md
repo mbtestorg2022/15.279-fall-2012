@@ -97,7 +97,7 @@ The Classroom
 Student Information
 -------------------
 
-![47 students took this course in the Fall 2012 offering.](/courses/sloan-school-of-management/15-279-management-communication-for-undergraduates-fall-2012/instructor-insights/15-279_stat-students.png)
+{{< resource "757c3739-2926-423a-e841-a29522f497d0" >}}
 
 {{< tableopen >}}
 {{< theadopen >}}
